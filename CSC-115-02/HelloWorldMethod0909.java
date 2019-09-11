@@ -2,7 +2,7 @@
 // 9/4/2019
 // This program writes a message to the screen.
 
-public class HelloWorld {
+public class HelloWorldMethod0909 {
     public static void main(String[] args) {
         
        printMessage(); // calls the method to print the message
