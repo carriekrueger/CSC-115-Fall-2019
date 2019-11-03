@@ -5,7 +5,7 @@
 import java.util.Random;
 
 public class Dice {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         
         
         /* debugging section
@@ -105,7 +105,7 @@ public class Dice {
     // Method that takes two parameters (dice rolls) and returns true if doubles
     public static boolean checkForDoubles(int d1, int d2) {
     	
-    	if(d1 == d2 ) {
+    	if(d1 == d2) {
     		return true;
     	} else {
     		return false;
