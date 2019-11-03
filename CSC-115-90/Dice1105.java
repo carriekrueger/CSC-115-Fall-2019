@@ -1,5 +1,5 @@
 // Carrie Krueger (by way of Dave Ghidiu)
-// 10-23-18
+// 11-5-19
 // Dice program - a good example of methods
 
 import java.util.Random;
