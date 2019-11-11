@@ -33,7 +33,7 @@ public class PasswordValidateNotes {
 	    int loopCounter = 0;
 	    int capitalCounter = 0;
 	    
-	    while(loopCounter < input.length() {
+	    while(loopCounter < input.length()) {
 	        char ch = input.charAt(loopCounter);
 	        
 	        if(ch >= 'A' && ch <= 'Z'){
